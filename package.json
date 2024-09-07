@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Neste exercício, vamos trabalhar com os conceitos de tipagem básica em TypeScript, como **string**, **number**, **boolean** e **array**.",
   "devDependencies": {
     "typescript": "^5.5.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goncalvs98/exercicios_typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Goncalvs98/exercicios_typescript/issues"
+  },
+  "homepage": "https://github.com/Goncalvs98/exercicios_typescript#readme"
 }
